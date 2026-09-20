@@ -9,4 +9,4 @@ A simple Python application for managing student tasks.
 
 ## Project Status
 
-The project is currently under development.
+Task creation and management are now implemented.
